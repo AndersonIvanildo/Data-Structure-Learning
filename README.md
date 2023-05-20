@@ -14,3 +14,9 @@ In simple words, a linked list consists of nodes where each node contains a data
 ###### Exemple of a one node
 <img src="https://th.bing.com/th/id/OIP.uhmZem2lqg2DixuudagQqAAAAA?pid=ImgDet&rs=1" alt="Exemple of a node">
 
+### _Type of Linked List_
+The are some types of linked list, but the most common are:
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
+- Doubly Circular Linked List
