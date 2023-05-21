@@ -1,5 +1,5 @@
 # Data Structure Learning
-This is a repository used to review my studies with the main Data Structures and their characteristics and application examples.
+This is a repository used to review my studies with the main Data Structures and their characteristics and application examples. The idea behind the repository is to demonstrate the data structures in examples with some additions to the basic structure. All data structure codes written were copied/inspired by the course _"The Complete Data Structures and Algorithms Course in Python"_ by _Elshad Karimov_ available on the Udemy platform. The link to the course is https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/
 
 ### Table of Contents
 - [Linked List](#linked-list)
